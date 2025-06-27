@@ -1,0 +1,2 @@
+What are generalisations and/or specialisations (Inheritance) exists within your game. If there are none, what could you add that would include these features.
+- The second map layout would have to inherit all the same properties from the first map, the only difference being the layout. 
